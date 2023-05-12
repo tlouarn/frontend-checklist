@@ -24,6 +24,7 @@
 * styling of feature image
 * styling of title
 * styling of a table
+* custom favicon in all formats (check which formats are necessary)
 
 What should a simple blog have:
 * index page: hero banner and latest posts
