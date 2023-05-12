@@ -32,3 +32,10 @@ What should a simple blog have:
 * page page: a page including "about"
 * post tagged *
 
+
+
+Website checklist:
+* visitor tracking: google analytics
+* google web console
+* rss feed
+* sitemap.xml
