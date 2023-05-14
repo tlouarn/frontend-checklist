@@ -39,3 +39,4 @@ Website checklist:
 * google web console
 * rss feed
 * sitemap.xml
+* robots.txt
