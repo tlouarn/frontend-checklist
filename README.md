@@ -25,6 +25,8 @@
 * styling of title
 * styling of a table
 * custom favicon in all formats (check which formats are necessary)
+* links opening in a separate tab
+* links decorated with icon for the document type (HTML, PDF, IMAGE)
 
 What should a simple blog have:
 * index page: hero banner and latest posts
